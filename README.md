@@ -5,6 +5,10 @@
 ### About me:
 > *Hey, I’m Kulwant Parkar but people here call me Spide. I grew up in India. I speak Hindi and broken English. I love play football.
 >   I am newbie in this coding industry but i am eager to learn.*
+<br>
+- 🔭 I’m currently working on #100DayOfCode <br>
+- 🌱 I’m currently learning PYTHON <br>
+- 📫 How to reach me: https://twitter.com/KulwantParkar1 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -26,5 +30,14 @@
 
 ---
 
+### 💼 Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+---
+
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kulwantparkar&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kulwantparkar&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulwantparkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+
