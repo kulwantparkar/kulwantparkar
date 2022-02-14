@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/kulwantparkar/gif/main/7A5ZfPJ.gif" width = 1068px/>
+  <img src="https://raw.githubusercontent.com/kulwantparkar/gif/main/7A5ZfPJ.gif" />
 </div>
 
 ### About me:
@@ -40,4 +40,5 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kulwantparkar&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulwantparkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+<br>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kulwantparkar.visitor-badge)
