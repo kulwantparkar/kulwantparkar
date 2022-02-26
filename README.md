@@ -3,7 +3,7 @@
 </div>
 
 ### About me:
-> *Hey, I’m Kulwant Parkar but people here call me Spide. I grew up in India. I speak Hindi and broken English. I love play football.
+> *Hey, I’m Kulwant Parkar but people here call me Spide. I grew up in India. I speak Hindi and broken English. I love to play football.
 >   I am newbie in this coding industry but i am eager to learn.*
 <br>
 - 🔭 I’m currently working on #100DayOfCode <br>
