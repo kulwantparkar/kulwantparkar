@@ -42,9 +42,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulwantparkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kulwantparkar.visitor-badge)
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+![Profile View Counter](https://komarev.com/ghpvc/?username=kulwantparkar)
