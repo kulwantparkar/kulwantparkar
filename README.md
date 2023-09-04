@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/kulwantparkar/gif/main/7A5ZfPJ.gif" />
-</div>
-
 ### About me:
 > *Hey, I’m Kulwant Parkar but people here call me Spide. I grew up in India. I speak Hindi and broken English. I love to play football.
 >   I am newbie in this coding industry but i am eager to learn.*
