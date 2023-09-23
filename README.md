@@ -4,7 +4,7 @@
 <br>
 - 🔭 I’m currently working on #100DayOfCode <br>
 - 🌱 I’m currently learning PYTHON <br>
-- 📫 How to reach me: https://twitter.com/KulwantParkar1 
+- 📫 How to reach me: https://twitter.com/KulwantParkar10
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
